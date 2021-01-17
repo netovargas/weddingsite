@@ -1,0 +1,36 @@
+.center {
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+img {
+  	image-orientation: from-image;
+}
+
+.details {
+	margin-top: 40px;
+	text-align: center
+}
+.top-detail {
+	font-size: 16px;
+}
+
+ul.info1 {
+	text-align: center;
+	padding-left: 0;
+}
+li {
+	font-family: "Times New Roman", Times, serif;
+	list-style-type: none;
+	font-weight: bold;
+	font-style: italic;
+}
+#one {
+	font-size: 24px;
+}
+#two {
+	font-size: 20px;
+}
+#three {
+	font-size: 18px;
+}
